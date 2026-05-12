@@ -59,8 +59,8 @@ except ImportError:
 
 CONFIG = {
     # ── WAJIB DIISI ──────────────────────────────────────────
-    "TOKEN"          : os.environ.get("TOKEN", "8694963924:AAHIuF3Xkw-EBnnWM3OziSRbONlrFIQRSWQ"),
-    "CHAT_ID"        : os.environ.get("CHAT_ID", "6806030764"),
+    "TOKEN"          : os.environ.get("TOKEN", "TOKEN BOT"),
+    "CHAT_ID"        : os.environ.get("CHAT_ID", "TOKEN CHAT"),
 
     # ── PROFIL VALETAX ───────────────────────────────────────
     "BROKER"         : "Valetax",
