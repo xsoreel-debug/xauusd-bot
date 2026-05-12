@@ -1,6 +1,6 @@
 """
 ╔══════════════════════════════════════════════════════════════╗
-║          XAU/USD SYSTEM X.01 — TELEGRAM BOT v2.0            ║
+║          X SYSTEM X.01 — TELEGRAM BOT v2.0            ║
 ║          Integrated: X.01 + Gold Alpha Fase 0 & 1           ║
 ╠══════════════════════════════════════════════════════════════╣
 ║  3 Pilar  : Macro + Technical + Eksekusi                     ║
